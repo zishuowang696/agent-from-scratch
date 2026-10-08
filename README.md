@@ -43,6 +43,10 @@ export LLM_MODEL="gpt-4o-mini"
 
 循环一个字都不用动——**模型是可替换的零件，你的循环才是资产。**
 
+## 反馈
+
+有问题或建议？到 GitHub 提 **[Issue](https://github.com/zishuowang696/agent-from-scratch/issues)**，或在文章下方评论。
+
 ## 许可
 
 MIT
