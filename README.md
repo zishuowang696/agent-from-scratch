@@ -3,7 +3,14 @@
 > **本质就是一个循环：调用 API 问模型 → 执行工具 → 回喂结果。**
 > 20 行代码读懂 AI Agent。
 
-🌐 站点：<https://embedai.com.cn> ｜ 📖 文章：<https://embedai.com.cn/posts/build-ai-agent-from-scratch>
+🌐 站点：<https://embedai.com.cn> ｜ 🧵 系列「从 0 构建 AI Agent」
+
+**系列文章**：
+
+1. [从 0 构建一个 AI Agent](https://embedai.com.cn/posts/build-ai-agent-from-scratch)（本仓库）
+2. [Function Calling 到底是什么？一张图讲清](https://embedai.com.cn/posts/function-calling-explained)
+3. [Agent 的 messages 越滚越大？几个实用解法](https://embedai.com.cn/posts/agent-context-management)
+4. [工具结果太大，别直接回喂给模型](https://embedai.com.cn/posts/tool-results-too-big)
 
 一个**完整、可跑**的最小 AI Agent。模型用 **DeepSeek**（OpenAI 兼容接口），示例工具是最朴素的 `cat`（读文件）。
 
